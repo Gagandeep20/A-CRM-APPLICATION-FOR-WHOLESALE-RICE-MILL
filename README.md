@@ -24,9 +24,6 @@ Set up Organization-Wide Defaults (OWD) to restrict data access based on roles.
 Roles include Owner, Employer, and Worker, with varying levels of access to records.
 Example: The Owner can view all records, the Employer can view Worker records, and Workers have limited access.
 Getting Started
-Clone the Repository:
-
-Git Clone https://github.com/saboors31/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL
 
 Setup Salesforce Environment:
 
